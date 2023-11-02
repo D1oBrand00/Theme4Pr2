@@ -1,0 +1,7 @@
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\bin\Debug\Theme4Pr2.exe.config
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\bin\Debug\Theme4Pr2.exe
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\bin\Debug\Theme4Pr2.pdb
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\obj\Debug\Theme4Pr2.csproj.AssemblyReference.cache
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\obj\Debug\Theme4Pr2.csproj.CoreCompileInputs.cache
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\obj\Debug\Theme4Pr2.exe
+B:\Program Files\source\repos\Theme4Pr2\Theme4Pr2\obj\Debug\Theme4Pr2.pdb
